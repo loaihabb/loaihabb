@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Loiy Habeeb</h1>
 <h3 align="center">3rd Year Computer Engineering student</h3>
-<img align ="right" alt="coding" width="400" src="![code](https://github.com/loaihabb/loaihabb/assets/79014104/254304d9-794c-4e6d-a330-4e0bb8073d1f)"> 
+<img align ="right" alt="coding" width="400" src="https://github.com/loaihabb/loaihabb/assets/79014104/254304d9-794c-4e6d-a330-4e0bb8073d1f"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loaihabb&label=Profile%20views&color=0e75b6&style=flat" alt="loaihabb" /> </p>
 
 - 🔭 I’m currently studying in SDÜ
