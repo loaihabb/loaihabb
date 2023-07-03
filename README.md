@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-2yq9ngcku-loaihabb.vercel.app](https://portfolio-2yq9ngcku-loaihabb.vercel.app)
 
-- 💬 Ask me about **React, Network and Kali linux**
+- 💬 Ask me about **Data Structures, OOP, Full-Stack development, Network and Kali linux**
 
 - 📫 How to reach me **LoaiHabb@gmail.com**
 
