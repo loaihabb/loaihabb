@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack development and cyber security**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-2yq9ngcku-loaihabb.vercel.app](https://portfolio-2yq9ngcku-loaihabb.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portofolio-v2-gold.vercel.app](https://portofolio-v2-gold.vercel.app)
 
 - 💬 Ask me about **Data Structures, OOP, Full-Stack development, Network and Kali linux**
 
