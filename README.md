@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Loiy Habeeb</h1>
-<h3 align="center">Last Year Computer Engineering student</h3>
+<h3 align="center">Computer Engineer</h3>
 <img align ="right" alt="coding" width="400" src="https://github.com/loaihabb/loaihabb/assets/79014104/254304d9-794c-4e6d-a330-4e0bb8073d1f"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loaihabb&label=Profile%20views&color=0e75b6&style=flat" alt="loaihabb" /> </p>
 
-- 🔭 I’m currently studying in SDÜ
+- 🔭 I recently graduated from SDÜ
 
 - 🌱 I’m currently learning **Full-Stack development and cyber security**
 
